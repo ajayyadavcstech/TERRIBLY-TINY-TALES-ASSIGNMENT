@@ -24,5 +24,8 @@ When i click on button then fetchData function called data will be loaded if dat
 ### `Module used`
 -> Histogram : To plot the graph i used this module
 
-### 'Hooks used`
+### `Hooks used`
 -> useState
+
+### `Netlify Link`
+https://terribly-tiny-tails-assignment.netlify.app/
